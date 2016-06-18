@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 16.0.3, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg version="1.1" id="Layer_1" xmlns:sketch="http://www.bohemiancoding.com/sketch/ns"
+	 xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" width="720px" height="720px"
+	 viewBox="0 0 720 720" enable-background="new 0 0 720 720" xml:space="preserve">
+<title>Page 1</title>
+<desc>Created with Sketch.</desc>
+<g id="Page-1_1_" sketch:type="MSPage">
+	<g id="Hover-_x26_-Active-States" transform="translate(-744.000000, -334.000000)" sketch:type="MSArtboardGroup">
+		<g id="GW-hover" transform="translate(490.000000, 319.000000)" sketch:type="MSLayerGroup">
+			<g id="Page-1" transform="translate(254.000000, 14.000000)" sketch:type="MSShapeGroup">
+				<path id="Fill-1" d="M3,15v690h681V198l-90,90v327H93V105h378l90-90H3z"/>
+				<path id="Fill-2" d="M651,18L249,420l-27,90l93-27L717,81L651,18z"/>
+			</g>
+		</g>
+	</g>
+</g>
+</svg>

@@ -1,0 +1,20 @@
+node_modules
+build
+coverage
+.DS_Store
+.sass-cache
+*.map
+.idea
+app/assets/js/bundles
+app/assets/css
+app/assets/css/*
+app/assets/css/main.css
+app/assets/css/style.css
+*.log
+*.iml
+junitresults.xml
+
+# SONAR IGNORE
+
+*.properties
+.sonar

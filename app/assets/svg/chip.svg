@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 18.1.1, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="0 0 48 48" enable-background="new 0 0 48 48" xml:space="preserve">
+<g id="Layer_1">
+</g>
+<g id="Guidelines">
+	<g>
+		<path d="M0,39v4c0,2.8,2.2,5,5,5h8.5v-9H0z"/>
+		<rect y="10.2" width="13.5" height="26.8"/>
+		<path d="M13.5,0H5C2.2,0,0,2.2,0,5v3.2h13.5V0z"/>
+		<path d="M43,0h-8.2v12.1H48V5C48,2.2,45.8,0,43,0z"/>
+		<rect x="15.5" width="17.3" height="48"/>
+		<rect x="34.8" y="14.1" width="13.2" height="11.3"/>
+		<path d="M34.8,48H43c2.8,0,5-2.2,5-5V27.4H34.8V48z"/>
+	</g>
+</g>
+</svg>
