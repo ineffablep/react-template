@@ -64,7 +64,7 @@
     "cucumberry":"^0.0.3",
     "deepmerge":"^0.2.10",
     "enzyme":"^2.3.0",
-    "eslint":"^2.13.0",
+    "eslint":"^6.6.0",
     "eslint-plugin-react":"^5.2.2",
     "event-stream":"^3.3.2",
     "fs":"^0.0.2",
