@@ -40,7 +40,7 @@
     "moment":"^2.13.0",
     "newrelic":"^1.28.1",
     "numeral":"^1.5.3",
-    "react":"^15.1.0",
+    "react":"^16.5.0",
     "react-date-picker":"^5.3.9",
     "react-router":"^2.4.1",
     "reactify":"^1.1.1",
